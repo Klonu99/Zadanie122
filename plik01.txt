@@ -1,4 +1,4 @@
-Pierwszy plik tekstowy
+Pierwsza linia tekstu w pliku tekstowym.
 Druga linia tekstu w pliku tekstowym.
 Trzecia linia tekstu w pliku tekstowym.
 Czwarta linia tekstu w pliku tekstowym.
